@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a software engineer passionate about creating efficient and scalable web applications. I enjoy working across the full stack, from frontend interfaces to backend systems, with experience in government certification systems and modern web platforms.
+I'm a software engineer passionate about creating efficient and scalable web applications. I enjoy working across the full stack, from frontend interfaces to backend systems
 
 ## 🛠️ Skills & Technologies
 
@@ -52,12 +52,6 @@ I'm a software engineer passionate about creating efficient and scalable web app
 
 **Also experienced with:** Windows Server
 
-## 📊 GitHub Stats
-
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panudev&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panudev&layout=compact&theme=default)
-
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [panumax.dev](https://panumax.dev)
@@ -67,4 +61,4 @@ I'm a software engineer passionate about creating efficient and scalable web app
 
 ---
 
-_Last updated: <!--TIMESTAMP-->_
+_Last updated: August 30, 2025 <!--TIMESTAMP-->_
