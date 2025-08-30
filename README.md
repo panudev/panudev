@@ -10,35 +10,47 @@ I'm a software engineer passionate about creating efficient and scalable web app
 
 ## 🛠️ Skills & Technologies
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-- HTML, CSS, Bootstrap
-
 ### Backend
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://skillicons.dev/icons?i=go)
+![C#](https://skillicons.dev/icons?i=cs)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=python)
+![Nest.js](https://skillicons.dev/icons?i=nestjs)
 
-- C#, REST API
+**Specializing in:** REST API, Microservices, gRPC
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Vue.js](https://skillicons.dev/icons?i=vue)
+![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://skillicons.dev/icons?i=react)
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Redis](https://skillicons.dev/icons?i=redis)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+**Also experienced with:** MSSQL, ClickHouse, SQL
 
-### Other
-- Stripe Integration
+### DevOps & Cloud
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Kafka](https://skillicons.dev/icons?i=kafka)
+
+**Also experienced with:** Windows Server
 
 ## 📊 GitHub Stats
 
